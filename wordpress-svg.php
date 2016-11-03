@@ -2,10 +2,10 @@
 
 /**
  * Plugin Name: GMT WordPress SVG
- * Plugin URI: https://github.com/cferdinandi/wordpress-svg/
- * GitHub Plugin URI: https://github.com/cferdinandi/wordpress-svg/
+ * Plugin URI: https://github.com/cferdinandi/gmt-wordpress-svg/
+ * GitHub Plugin URI: https://github.com/cferdinandi/gmt-wordpress-svg/
  * Description: Adds SVG support to the WordPress Media Library, and an [svg] shortcode for inlining SVGs.
- * Version: 1.0.0
+ * Version: 1.0.1
  * Author: Chris Ferdinandi
  * Author URI: http://gomakethings.com
  * License: MIT
